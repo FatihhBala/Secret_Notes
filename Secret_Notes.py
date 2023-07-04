@@ -69,7 +69,7 @@ def decryptt():
 
 
 # Labels, Entries, Text and Buttons
-topSecret = PhotoImage(file='/Users/fatihbala/Desktop/PycharmFolder/TkinterProject/top secret.png')
+topSecret = PhotoImage(file='/top secret.png')
 label1 = Label(image=topSecret)
 label1.config(width=120, height=120)
 label1.pack()
